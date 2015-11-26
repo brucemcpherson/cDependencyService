@@ -1,5 +1,5 @@
 # Google Apps Script Project: cDependencyService
-This repo (cDependencyService) was automatically updated on 28 September 2015 17:44:30 BST by GasGit
+This repo (cDependencyService) was automatically updated on 26 November 2015 19:58:14 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cDependencyService
@@ -21,6 +21,7 @@ cUrlResult| cUrlResult|M59PE-C_VqcthwNDmXB9gsCz3TLx7pV4j|11|no|[here](libraries/
 --- | --- | --- | --- | --- | --- 
 cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|26|no|[here](libraries/cUseful "library source")
 cUrlResult| cUrlResult|M59PE-C_VqcthwNDmXB9gsCz3TLx7pV4j|11|no|[here](libraries/cUrlResult "library source")
+cCacheHandler| cCacheHandler|M3reA5eBxtwxSqCEgPywb9ai_d-phDA33|16|no|[here](libraries/cCacheHandler "library source")
 ### Enabled Google Services
 no libraries discovered
 ###Need more detail ?
