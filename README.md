@@ -8,6 +8,6 @@ This is a reverse engineer hack of the Google dependency service that changes fr
 The value should be set to
 
 {
-  "permutation":"AC3153799279A802B305F943068894A6",
-  "tail":"|2EEC4241878AE31B209922BFA0F159A1|_|getDependencies|1|2|3|4|0|"
+"permutation":"EEF5A2F70A14D7316A8F107AA8794B06",
+"tail":"|2EEC4241878AE31B209922BFA0F159A1|_|getDependencies|1|2|3|4|0|"
 }
