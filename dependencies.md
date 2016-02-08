@@ -1,5 +1,5 @@
 # Google Apps Script Project: cDependencyService
-This repo (cDependencyService) was automatically updated on 26 November 2015 19:58:14 GMT by GasGit
+This repo (cDependencyService) was automatically updated on 08 February 2016 17:04:44 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cDependencyService
