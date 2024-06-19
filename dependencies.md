@@ -1,5 +1,5 @@
 # Google Apps Script Project: cDependencyService
-This repo (cDependencyService) was automatically updated on 12/31/2020, 11:38:47 AM by GasGit
+This repo (cDependencyService) was automatically updated on 6/19/2024, 2:40:21 PM by GasGit
 
 For more information on gasgit, see the [desktop liberation site](https://ramblings.mcpher.com/drive-sdk-and-github/migrategasgit/ "desktop liberation")
 
@@ -28,7 +28,7 @@ cUseful| cUseful|1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex|58|no
 --- | --- | --- | --- | --- | --- 
 cUrlResult| cUrlResult|1NtAiJulZM4DssyN0HcK2XXTnykN_Ir2ee2pXV-CT367nKbdbTvRX4pTM|16|no|[here](libraries/cUrlResult "library source")
 cCacheHandler| cCacheHandler|1U6j9t_3ONTbhTCvhjwANMcEXeHXr4shgzTG0ZrRnDYLcFl3_IH2b2eAY|18|no|[here](libraries/cCacheHandler "library source")
-cUseful| cUseful|1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex|117|no|[here](libraries/cUseful "library source")
+cUseful| cUseful|1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex|129|no|[here](libraries/cUseful "library source")
 ### Enabled Google Services
 no libraries discovered
 ### Scopes required
